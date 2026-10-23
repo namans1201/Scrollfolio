@@ -1,4 +1,4 @@
-# projects-library
+# Scrollfolio
 
 A scroll-animated portfolio built with React, TypeScript and Vite.
 
